@@ -1,3 +1,5 @@
-``` javascript
-var myVar = "Hello, my name is Samree!";
-```
+- [x] Organize using markdown
+- [x] Add an image
+- [x] Introduce yourself
+- [ ] Add a list
+
