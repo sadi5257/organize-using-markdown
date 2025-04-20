@@ -3,4 +3,4 @@
 ### This is an h3 header 
 #### This is an h4 header 
 ##### This is an h5 header 
-###### This is an 5 header. I created 6 headers using the # key followed by a space! 
+###### This is an h6 header. I created 6 headers using the # key followed by a space! 
